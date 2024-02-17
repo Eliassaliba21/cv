@@ -1,0 +1,23 @@
+body{
+    background-color: #C6DCBA;
+    
+}
+hr{
+    
+    
+    border-color: grey;
+    border-width: 1px;
+    
+}
+img{
+    height: 200px;
+}
+
+
+.bold-heading{
+    color:#2D9596;
+    font-weight: bold;
+}
+h2{
+    color:#2D9596;
+}
